@@ -1,4 +1,4 @@
-Problem :
+<!-- Problem :
 
 We use the integers a, b, and n to create the following series:
 (a+2^0*b), (a+2^0*b+2^1*b).......(a+2^0*b+2^1*b......+2^n-1*b)
@@ -39,9 +39,10 @@ S2 = 5 + 1*3 + 2*3 + 4*3 = 26
 S3 = 5 + 1*3 +2*3 + 4*3 + 8*3 = 50
 S4 = 5 + 1*3 + 2*3 + 4*3 + 8*3 + 16*3 = 98
 We then print each element of our series as a single line of space-separated values.
-
-Code:
-
+ -->
+ 
+ 
+<!-- Solution: -->
 
 import java.util.*;
 import java.io.*;
